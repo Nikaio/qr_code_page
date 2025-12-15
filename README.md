@@ -78,8 +78,8 @@ Nos próximos projetos, pretendo continuar focando em:
 
 ## Autor
 
-* GitHub – [@seu-usuario](https://github.com/Nikaio)
-* Frontend Mentor – [@seu-usuario](https://www.frontendmentor.io/profile/Nikaio)
+* GitHub – https://github.com/Nikaio
+* Frontend Mentor – https://www.frontendmentor.io/profile/Nikaio
 
 ---
 

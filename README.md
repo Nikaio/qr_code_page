@@ -29,8 +29,8 @@ Esta é uma solução para o desafio **QR Code Component** do [Frontend Mentor](
 
 ### Links
 
-* URL da solução:[Adicione a URL do site em produção aqui](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
-* URL do site em produção: [Adicione a URL do site em produção aqui](https://your-live-site-url.com)
+* URL da solução:https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
+* * URL do site em produção: [Adicione a URL do site em produção aqui](https://your-live-site-url.com)
 
 ---
 
